@@ -1,0 +1,17 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.log
+.DS_Store
+dist/
+build/
+.terraform/
+*.tfstate
+*.tfstate.backup
+.vscode/
+.idea/
+coverage/
+infrastructure/terraform/
+services/user-service/
